@@ -18,7 +18,6 @@ Essse projeto foi desenvolvido seguindo as seguintes tecnologias:
 - Botao para mostrar o curso selecionado.
 - Container para mostrar todos os cursos cadastrados, podendo clicar neles para o gerenciamento do mesmo.
 - Mostra eventuais erros (curso ja cadastrado ou nenhum curso selecionado).
-- 
   
 ## Como Usar
 1. Abra o arquivo index.html em seu navegador da web.
